@@ -77,6 +77,7 @@ Ideal for data scientists who want to integrate data analysis, visualization, an
 
 # OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/a30c435d-af10-4106-bba9-41a573c20fee)
 
 
 
